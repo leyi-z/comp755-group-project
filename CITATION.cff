@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Grdadolnik"
+  given-names: "Jake"
+- family-names: "Facci"
+  given-names: "Michael"
+- family-names: "Nelson"
+  given-names: "Bex"
+- family-names: "Zhang"
+  given-names: "Leyi"
+- family-names: "Cao"
+  given-names: "Han"
+title: "comp755-group-project"
+version: 1.0.0
+date-released: 2022-12-01
+url: "https://github.com/leyi-z/comp755-group-project"
